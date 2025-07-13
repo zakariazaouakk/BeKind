@@ -4,7 +4,7 @@ As someone who loves watching Twitch streamers and YouTubers, I often go through
 
 ## Project Description
 
-This web application lets users input a YouTube video URL. It then fetches and extracts the recent comments directly from that video. These extracted comments are then processed by our deep learning model, which classifies them as "bullying" or "nonbullying."
+This web application lets users input a YouTube video URL. It then fetches and extracts the recent comments directly from that video. These extracted comments are then processed by our deep learning model, which classifies them as "bullying" or "nonbullying".
 
 ## Getting Started
 
