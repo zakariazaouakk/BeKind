@@ -1,0 +1,17 @@
+#venv
+venv/
+.venv/
+
+#compiled files
+__pycache__/
+*.pyc
+
+#ide
+.vscode/
+
+#wos files
+Thumbs.db
+
+#log files
+*.log
+streamlit_temp_*.py
