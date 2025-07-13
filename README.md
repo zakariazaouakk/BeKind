@@ -17,8 +17,7 @@ This web application lets users input a YouTube video URL. It then fetches and e
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/zakariazaouakk/BeKind.git](https://github.com/zakariazaouakk/BeKind.git)
-    cd BeKind
+    git clone https://github.com/zakariazaouakk/BeKind.git
     ```
 2.  **Set up Virtual Environment:**
     ```bash
